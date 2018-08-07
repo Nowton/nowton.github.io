@@ -42,7 +42,7 @@ minima:
 # Build settings
 theme: minima
 
-google-analytics: UA-123510772-1
+google_analytics: UA-123510772-1
 
 plugins:
  - jekyll-feed
